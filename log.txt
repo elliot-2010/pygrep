@@ -1,0 +1,6 @@
+[2026-06-15 10:23:11] ERROR: Connection failed - IP: 192.168.1.105
+[2026-06-15 10:23:15] INFO: User login - email: ali@gmail.com
+[2026-06-15 10:23:20] ERROR: Invalid password - email: sara@yahoo.com
+[2026-06-15 10:23:25] INFO: File downloaded - size: 1024 bytes
+[2026-06-15 10:23:30] ERROR: Connection failed - IP: 192.168.1.200
+[2026-06-15 10:23:35] INFO: User login - email: elliot@proton.me
